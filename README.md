@@ -12,3 +12,5 @@ zerk | Turn module on/off
 
 ## Credits to Kygas 
 https://github.com/KYGAS
+
+Module "fast-rampage" could not be applied to server connection! Im from Shen
